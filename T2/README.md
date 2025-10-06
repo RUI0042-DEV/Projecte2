@@ -15,3 +15,4 @@ L’empresa TecnoGestió S.L., dedicada a la gestió documental i assessorament 
 
 # Solució
 Aquí teniu la [Solucio](solucio.md)
+[Tornar a la pagina principal](../README.md)
