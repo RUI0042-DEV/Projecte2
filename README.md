@@ -4,5 +4,5 @@ Aquest repositori conté la documentació de les tasques 2 i 3 del mòdul d'apli
 
 ## 📂 Contingut
 
-- [T2](T2/README.md)
-- [T3](t3/README.md)
+- [T2](T2)
+- [T3](t3)
