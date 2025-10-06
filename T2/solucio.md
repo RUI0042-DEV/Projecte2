@@ -49,10 +49,11 @@ Això implica que el SAI ha de mantenir 810 W durant 10 minuts.
 
 Després d’analitzar les especificacions:
 - Recomanat: APC Back-UPS Pro BR1500G-GR
+![Foto Sai](./img/sai2.png)
 
 Motius:
 - Potència suficient per cobrir els 1215 VA amb reserva.
-- utonomia real superior als 10 minuts amb càrrega de 810 W.
+- Autonomia real superior als 10 minuts amb càrrega de 810 W.
 - Marca reconeguda internacionalment per fiabilitat.
 - Disposa de 10 sortides, ideal per connectar tots els equips.
 - Inclou pantalla LCD, software de gestió, i bateries reemplaçables.
