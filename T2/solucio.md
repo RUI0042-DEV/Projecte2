@@ -41,7 +41,7 @@ Això implica que el SAI ha de mantenir 810 W durant 10 minuts.
 
 | Model | Potència | Autonomia estimada | Sortides | Tipus | Preu aprox. |
 |--------|-----------|--------------------|-----------|--------|--------------|
-| [APC Back-UPS Pro BR1500G-GR]([https://www.hp.com/pe-es/shop/desktop-hp-prodesk-400-g6-7ze63la.html#features](https://www.apc.com/ca/en/product/BR1500G/apc-backups-pro-1500va-865w-tower-120v-10x-nema-515r-outlets-avr-lcd-user-replaceable-battery/)) | 1500 VA / 865 W | ~10–13 min a 800 W | 10 (5 amb bateria + 5 amb protecció) | Line-interactiva | 479.00 |
+| [APC Back-UPS Pro BR1500G-GR](https://www.apc.com/ca/en/product/BR1500G/apc-backups-pro-1500va-865w-tower-120v-10x-nema-515r-outlets-avr-lcd-user-replaceable-battery/) | 1500 VA / 865 W | ~10–13 min a 800 W | 10 (5 amb bateria + 5 amb protecció) | Line-interactiva | 479.00 |
 | [Salicru SPS 1200 Soho+](https://www.amazon.es/Salicru-SPS-1200-Soho-Sistema-alimentaci%C3%B3n-ininterrumpida/dp/B079FX7WR7?th=1) | 1200 VA / 720 W | ~10 min a 650 W (estimada) | 4 Schuko | Line-interactiva | 140.90 |
 | [Trust Paxxon 1500VA](https://www.trust.com/en/product/23505-paxxon-1500va-uninterruptible-power-supply-ups-eu) | 1500 VA / 900 W | 7 min a 450 W / 80 s a 900 W | 4 Schuko | Line-interactiva amb AVR | 199.99 |
 
