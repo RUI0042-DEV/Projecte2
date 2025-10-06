@@ -4,5 +4,5 @@ Aquest repositori conté la documentació de les tasques 2 i 3 del mòdul d'apli
 
 ## 📂 Contingut
 
-- Tasca 2
-- Tasca 3
+- [T2] !(https://github.com/RUI0042-DEV/Projecte2/tree/main/T2)
+- [T3] !(https://github.com/RUI0042-DEV/Projecte2/tree/main/T3)
