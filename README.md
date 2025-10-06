@@ -5,4 +5,4 @@ Aquest repositori conté la documentació de les tasques 2 i 3 del mòdul d'apli
 ## 📂 Contingut
 
 - Tasca 2
-- [Tasca3
+- Tasca 3
