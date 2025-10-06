@@ -49,21 +49,29 @@ El flux de treball es divideix en quatre etapes:
 
 ## 🧮 Àrees de Projecte i Activitats
 
-ÀreaTipus de ProjectesCiberseguretatTria de SAIs, recuperació d’accessos, enfortiment de sistemes.| **Administració de Sistemes** | Servidors Linux, serveis de xarxa (DHCP), optimització d’infraestructures. |
+| **Àrea** | **Tipus de Projectes / Activitats** |
+|-----------|--------------------------------------|
+| **Ciberseguretat** | Tria de SAIs, recuperació d’accessos, enfortiment de sistemes. |
+| **Administració de Sistemes** | Servidors Linux, serveis de xarxa (DHCP), optimització d’infraestructures. |
 | **Desenvolupament Web** | Assessorament en dominis i hosting, creació de webs, WordPress. |
 | **Tecnologia Sostenible** | Bones pràctiques ambientals i ús de tecnologies verdes. |
+
 
 ---
 
 ## 📝 Tasques d’Incorporació
 
-CodiActivitatDescripcióT00Inici i KanbanConfiguració inicial del projecte i del sistema de gestió.| **T01** | GitHub | Creació i personalització del perfil professional. |
+| **Codi** | **Activitat** | **Descripció** |
+|-----------|----------------|----------------|
+| **T00** | Inici i Kanban | Configuració inicial del projecte i del sistema de gestió. |
+| **T01** | GitHub | Creació i personalització del perfil professional. |
 | **T02** | Estudi de SAI | Investigació i selecció de sistemes d’alimentació ininterrompuda. |
 | **T03** | Seguretat Lògica | Recuperació d’accessos i protecció de sistemes Linux. |
 | **T04** | Servidor Linux | Configuració i administració avançada. |
 | **T05-T06** | DHCP | Implementació de serveis de xarxa. |
 | **T07-T09** | Hosting i Sostenibilitat | Projectes verds i assessorament en allotjament web. |
 | **T10-T11** | Documentació i CMS | Ús de Markdown i instal·lació de WordPress en local. |
+
 
 ---
 
