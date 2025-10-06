@@ -19,6 +19,19 @@ Dispositius que es connectaran al SAI:
 | [Monitor](https://www.dell.com/es-es/shop/monitor-dell-24-se2425hm/apd/210-bqzt/monitores-y-accesorios)   | Dell SE2425HM      | 12,8 W      | 16 VA        |
 | [Router](https://www.tp-link.com/es/home-networking/wifi-router/archer-c6/)    | TP-Link Archer C6  | 10 W        | 12.5 VA      |
 
+Ordinador:
+
+![Ordinador](./img/pc1.png) 
+
+Monitor: 
+
+![Monitor](./img/monitor1.png) 
+
+Router:
+
+![Router](./img/router1.png)    
+
+
 Total per unitat (PC + monitor):
 
 180+20=200W⇒225+25=250VA  
