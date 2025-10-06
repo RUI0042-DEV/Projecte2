@@ -58,4 +58,5 @@ Motius:
 - Disposa de 10 sortides, ideal per connectar tots els equips.
 - Inclou pantalla LCD, software de gestió, i bateries reemplaçables.
 
-[Tornar a enrera](./README.md)
+[Tornar a enrera](./README.md)🔙
+
