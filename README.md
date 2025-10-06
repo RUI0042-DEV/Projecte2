@@ -4,5 +4,5 @@ Aquest repositori conté la documentació de les tasques 2 i 3 del mòdul d'apli
 
 ## 📂 Contingut
 
-- [T2](T2)
+- [T2](/Projecte2/tree/main/T2)
 - [T3](t3)
