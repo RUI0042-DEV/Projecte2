@@ -99,5 +99,5 @@ Més que una empresa, és una **comunitat d’aprenentatge i innovació**, on ca
 > — **EverPia**
 ## 📂 Contingut
 
-- [T2](T2)
-- [T3](T3)
+- [Tasca2](T2)
+- [Tasca3](T3)
