@@ -101,3 +101,4 @@ Més que una empresa, és una **comunitat d’aprenentatge i innovació**, on ca
 
 - [Tasca2](T2)
 - [Tasca3](T3)
+- [Tasca8](T8)
