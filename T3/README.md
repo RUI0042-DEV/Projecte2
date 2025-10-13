@@ -30,7 +30,7 @@ Finalment, s’haurà de **documentar tot el procés** i pujar l’informe amb *
 
 Un sistema **accessible i protegit**, amb un **informe tècnic clar i complet**.
 
-# Solució
+# Solució 💡
 Aquí teniu la [Solucio](solucio.md)
 
 [Tornar a la pagina principal](../README.md)
