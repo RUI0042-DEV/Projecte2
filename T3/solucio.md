@@ -24,14 +24,19 @@ fins que aparegui el menú del **GRUB**.
 Un cop dins, escrivim les següents línies per iniciar el sistema com a root:
 
 - `linux /boot/vmlinuz-6.8.0-52-generic root=/dev/sda3 rw init=/bin/bash`
-![Captura del procés](.1.png)
+![Captura del procés](./img/1.png)
 - `initrd /boot/initrd.img-6.8.0-52-generic`
+
+![Captura del procés](./img/2.png)
 - `boot`
+![Captura del procés](./img/3.png)
 
 Amb aquestes ordres, el sistema s’obrirà directament en una consola amb permisos de root.  
 Quan hi tinguem accés, només cal escriure:
 
 - `passwd miquel`
+
+![Captura del procés](./img/4.png)
 
 i podrem assignar una nova contrasenya a l’usuari.  
 Després reiniciem la màquina, iniciem sessió amb la nova contrasenya  
@@ -46,15 +51,21 @@ Generem una contrasenya encriptada amb:
 
 - `grub-mkpasswd-pbkdf2`
 
+![Captura del procés](./img/5.png)
+
 Ens demanarà una contrasenya, la repetim i ens mostrarà el **hash encriptat**.  
 Copiem aquest hash i obrim el fitxer següent:
 
 - `sudo nano /etc/grub.d/40_custom`
 
+  ![Captura del procés](./img/6.png)
+
 Al final del fitxer hi afegim aquestes dues línies:
 
 - `set superusers="root"`
 - `password_pbkdf2 root <enganxa_aquí_el_hash>`
+
+![Captura del procés](./img/7.png)
 
 Guardem els canvis amb:
 
@@ -63,6 +74,8 @@ Guardem els canvis amb:
 Finalment, actualitzem la configuració del GRUB:
 
 - `sudo update-grub`
+
+![Captura del procés](./img/8.png)
 
 💡 Amb això, el **GRUB** quedarà protegit.  
 Cada vegada que s’intenti editar o arrencar el menú, demanarà usuari i contrasenya.  
@@ -80,6 +93,8 @@ Obrim el fitxer que genera les entrades del GRUB:
 
 - `sudo nano /etc/grub.d/10_linux`
 
+![Captura del procés](./img/9.png)
+
 Com que el fitxer és llarg, podem buscar fàcilment amb:
 
 **Ctrl + W →** escrivim “menuentry”
@@ -89,12 +104,16 @@ Just després del paràmetre `${CLASS}`, afegim:
 
 - `--unrestricted`
 
+![Captura del procés](./img/10.png)
+
 Així indiquem que aquestes entrades es poden executar sense contrasenya,  
 mentre que la resta (com l’edició o la consola del GRUB) quedaran protegides.  
 Guardem (**Ctrl + O**, **Enter**, **Ctrl + X**)  
 i actualitzem el GRUB novament:
 
 - `sudo update-grub`
+
+![Captura del procés](./img/8.png)
 
 Reiniciem la màquina per comprovar que tot funcioni correctament.
 
