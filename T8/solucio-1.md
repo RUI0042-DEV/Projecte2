@@ -79,5 +79,5 @@ Hostinger combina velocitat, preu competitiu i eines integrades que simplifiquen
 | Concepte | Cost mensual | Cost anual aproximat |
 |----------|--------------|---------------------|
 | Hosting (Hostinger Premium) | 2,99 € | 35,88 € |
-| Domini .photo | — | 20 € |
-| **Total anual estimat** | — | **≈ 56 €** |
+| Domini .photo | — | 27,95€ |
+| **Total anual estimat** | — | **≈ 63,83 €** |
