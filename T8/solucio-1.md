@@ -21,10 +21,10 @@ Lazy load per a imatges, CDN integrat, galeria optimitzada, emmagatzematge SSD r
 Nom creatiu relacionat amb fotografia i viatges. Prioritat per les extensions .photo o .com per raons de marca i visibilitat internacional.
 
 **Alternatives de dominis disponibles (octubre 2025):**  
-fotonomada.photo – disponible (~20 €/any)  
-fotonomada.com – disponible (~13 €/any)  
-fotonomadafoto.com – disponible (~12 €/any)  
-foto-nomada.com – disponible (~11 €/any)
+fotonomada.photo – disponible (27,95€/any)  
+fotonomada.com – disponible (15,95€/any)  
+fotonomadafoto.com – disponible (15,95€/any)  
+foto-nomada.com – disponible (15,95€/any)
 
 **Recomanació final de domini:**  
 **🌟 fotonomada.photo** — modern, professional i clarament vinculat amb la fotografia.
