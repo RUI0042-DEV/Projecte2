@@ -21,9 +21,9 @@ Nom periodístic i local per reforçar la identitat territorial.
 Extensió recomanada .cat per a mitjans catalans o .news com a alternativa moderna.
 
 **Alternatives de dominis disponibles (octubre 2025):**  
-diaridelbarri.cat – disponible (~14 €/any)  
-diaridelbarri.news – disponible (~18 €/any)  
-eldiariodelbarri.cat – disponible (~15 €/any)
+diaridelbarri.cat – disponible (5,00€/any)  
+diaridelbarri.news – disponible (27,95€/any)  
+eldiariodelbarri.cat – disponible (5,00€/any)
 
 **Recomanació final de domini:**  
 **📰 diaridelbarri.cat** — reforça la identitat local i millora el posicionament SEO dins l’àmbit català.
@@ -78,5 +78,5 @@ Webempresa combina rendiment, protecció i servei professional per garantir la c
 | Concepte | Cost mensual | Cost anual aproximat |
 |----------|--------------|---------------------|
 | Hosting (Webempresa Standard) | 7,95 € | 95,40 € |
-| Domini .cat | — | 14 € |
-| **Total anual estimat** | — | **≈ 109 €** |
+| Domini .cat | — | 5 € |
+| **Total anual estimat** | — | **≈ 100,4 €** |
