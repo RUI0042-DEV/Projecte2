@@ -29,6 +29,7 @@ Un cop dins, escrivim les següents línies per iniciar el sistema com a root:
 
 ![Captura del procés](./img/2.png)
 - `boot`
+
 ![Captura del procés](./img/3.png)
 
 Amb aquestes ordres, el sistema s’obrirà directament en una consola amb permisos de root.  
@@ -118,11 +119,5 @@ i actualitzem el GRUB novament:
 Reiniciem la màquina per comprovar que tot funcioni correctament.
 
 ---
-
-## ✅ Resultat final
-
-El sistema s’inicia automàticament **sense demanar contrasenya**.  
-Si intentes editar el **GRUB** o accedir a opcions avançades, **demanarà usuari i contrasenya**.  
-D’aquesta manera aconseguim una protecció equilibrada entre **seguretat i comoditat**.
 
 [Tornar a enrera](./README.md)
