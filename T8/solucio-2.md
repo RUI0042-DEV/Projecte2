@@ -79,4 +79,4 @@ Webempresa combina rendiment, protecció i servei professional per garantir la c
 |----------|--------------|---------------------|
 | Hosting (Webempresa Standard) | 7,95 € | 95,40 € |
 | Domini .cat | — | 9,95 € |
-| **Total anual estimat** | — | **≈ 100,4 €** |
+| **Total anual estimat** | — | **≈ 105,35 €** |
