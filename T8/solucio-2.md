@@ -21,9 +21,9 @@ Nom periodístic i local per reforçar la identitat territorial.
 Extensió recomanada .cat per a mitjans catalans o .news com a alternativa moderna.
 
 **Alternatives de dominis disponibles (octubre 2025):**  
-diaridelbarri.cat – disponible (5,00€/any)  
+diaridelbarri.cat – disponible (9,95€/any)  
 diaridelbarri.news – disponible (27,95€/any)  
-eldiariodelbarri.cat – disponible (5,00€/any)
+eldiariodelbarri.cat – disponible (9,95€/any)
 
 **Recomanació final de domini:**  
 **📰 diaridelbarri.cat** — reforça la identitat local i millora el posicionament SEO dins l’àmbit català.
